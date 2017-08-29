@@ -1,0 +1,80 @@
+* {
+    border-style: solid;
+    border-width: 3px;
+}
+
+
+#content {
+  display:block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+div#topnav ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+div#topnav li {
+    display: inline;
+    margin: 0 10px 0 10px;
+}
+
+div#botnav ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+div#botnav li {
+    display: inline;
+}
+
+#logospace {
+  display: block;
+  width: 100%;
+  margin: auto;  
+}
+
+
+#logo {
+
+    display: block;
+    
+    margin: 25px auto;
+}
+
+#searchbox {
+    display: block;
+    width: 500px;   
+    margin: auto;
+    
+}
+
+.buttoncontainer {
+    display: block;
+    width: 100% ;
+        
+}
+
+.buttonspace {
+    display: block;
+    width: 250px;
+    margin: auto;
+    text-align: center;
+}
+
+.searchbtn {
+    display: inline;
+    text-align: center;
+}
+
+.luckybtn {
+    display: inline;
+    text-align: center;
+}
